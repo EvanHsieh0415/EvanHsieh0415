@@ -5,7 +5,7 @@ Hi I am Mango | 嗨 我是芒果
 
 [![Mango's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanHsieh0415&show_icons=true&theme=react&include_all_commits=true)](https://github.com/EvanHsieh0415)
 ---
-[![Mango Bot OSV](https://github-readme-stats.vercel.app/api/pin/?username=EvanHsieh0415&repo=DiscordBot-MangoBot-OSV&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Mango Bot OSV](https://github-readme-stats.vercel.app/api/pin/?username=EvanHsieh0415&repo=DiscordBot-MangoBot-OSV&theme=react)](https://github.com/EvanHsieh0415/DiscordBot-MangoBot-OSV)
 ---
 [![Youtube Channel](https://img.shields.io/badge/Youtuber-Click%20Me-red?style=for-the-badge)](https://www.youtube.com/user/Evan6201)
 [![Twitch Channel](https://img.shields.io/badge/Twitch-Click%20Me-9146ff?style=for-the-badge)](https://www.twitch.tv/cl_mango)
