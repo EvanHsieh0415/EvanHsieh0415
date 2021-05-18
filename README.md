@@ -6,9 +6,6 @@ Hi I am Mango | 嗨 我是芒果
 [![Mango's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanHsieh0415&show_icons=true&theme=react&include_all_commits=true)](https://github.com/EvanHsieh0415)
 
 [![Mango's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanHsieh0415&show_icons=true&theme=react&include_all_commits=true)](https://github.com/EvanHsieh0415)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EvanHsieh0415&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 ---
 [![Mango Bot OSV](https://github-readme-stats.vercel.app/api/pin/?username=EvanHsieh0415&repo=DiscordBot-MangoBot-OSV&theme=react)](https://github.com/EvanHsieh0415/DiscordBot-MangoBot-OSV)
 ---
