@@ -1,21 +1,13 @@
-# About-Me | 關於我
-Hi I am Mango | 嗨 我是芒果
+### Hi there 👋, I'm MJP
+#### I am a student
+![I am a student](https://pbs.twimg.com/profile_banners/1232849193795870720/1582769193/600x200)
 
-[![Github top language](https://img.shields.io/github/languages/top/EvanHsieh0415/DiscordBot-MangoBot-OSV?style=for-the-badge)](https://github.com/EvanHsieh0415/DiscordBot-MangoBot-OSV)
+To made the project is my game, I like to code.
 
-[![Mango's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanHsieh0415&show_icons=true&theme=react&include_all_commits=true)](https://github.com/EvanHsieh0415)
+Skills: Python
 
-[![Mango's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanHsieh0415&show_icons=true&theme=react&include_all_commits=true)](https://github.com/EvanHsieh0415)
----
-[![Mango Bot OSV](https://github-readme-stats.vercel.app/api/pin/?username=EvanHsieh0415&repo=DiscordBot-MangoBot-OSV&theme=react)](https://github.com/EvanHsieh0415/DiscordBot-MangoBot-OSV)
----
-[![Youtube Channel](https://img.shields.io/badge/Youtuber-Click%20Me-red?style=for-the-badge)](https://www.youtube.com/user/Evan6201)
-[![Twitch Channel](https://img.shields.io/badge/Twitch-Click%20Me-9146ff?style=for-the-badge)](https://www.twitch.tv/cl_mango)
-[![LBRY Channel](https://img.shields.io/badge/LBRY-Click%20Me-3E675D?style=for-the-badge)](https://lbry.tv/@芒果布丁)
+- 🔭 I’m currently working on a school 
+- 🌱 I’m currently learning Python 
 
-[![Facebook Fanpage](https://img.shields.io/badge/Facebook-Click%20Me-2D88FF?style=for-the-badge)](https://www.facebook.com/EvanMango999)
-[![Twitter](https://img.shields.io/badge/Twitch-Click%20Me-1DA1F2?style=for-the-badge)](https://twitter.com/YTMango1)
----
-Used Website
-- [Shields](https://shields.io/)
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/EvanHsieh0415)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/YTMango1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/user/Evan6201)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/No-Shock9432)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitch' height='40'>](https://www.twitch.tv/cl_mango)  
