@@ -2,11 +2,12 @@
 #### I am a student
 ![I am a student](https://pbs.twimg.com/profile_banners/1232849193795870720/1582769193/600x200)
 
-To made the project is my game, I like to code.
+Making projects is like playing games - I like to code.
 
-Skills: Python
+Skill Set
+ - Python
 
-- 🔭 I’m currently working on a school 
+- 🔭 I’m currently learning in a school
 - 🌱 I’m currently learning Python 
 
 
