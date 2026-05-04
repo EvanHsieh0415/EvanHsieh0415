@@ -40,9 +40,13 @@
 ---
 
 ### 📊 Github Stats
-![Evan's Stats](https://github-readme-stats-fast.vercel.app/api?username=EvanHsieh0415&show_icons=true&theme=github_dark)
-![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=EvanHsieh0415&theme=github_dark)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EvanHsieh0415&layout=compact&theme=github_dark)
+
+<div align="center">
+
+![Evan's Stats](https://github-readme-stats-fast.vercel.app/api?username=EvanHsieh0415&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EvanHsieh0415&layout=compact&theme=github_dark)  
+![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=EvanHsieh0415&theme=github_dark)  
+
+</div>
 
 ---
 
